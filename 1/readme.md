@@ -1,3 +1,5 @@
 NIM: 2022500025
 NAMA: REZA REZITA
 KELOMPOK: SI2K
+
+Pertemuan pertama
