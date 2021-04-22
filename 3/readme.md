@@ -6,4 +6,5 @@ KELOMPOK : SI2K
 MATA KULIAH : DESAIN PEMROGRAMAN WEB
 
 Hasil saya menyimpulkan : 
-1) 
+1) kuliah offline
+2) 
