@@ -7,4 +7,5 @@ MATA KULIAH : DESAIN PEMROGRAMAN WEB
 
 Hasil saya menyimpulkan : 
 1) kuliah offline
-2) ....
+2) belajar multimedia pada halaman web
+3) ....
