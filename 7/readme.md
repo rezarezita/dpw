@@ -1,0 +1,9 @@
+PERTEMUAN 7
+
+NIM : 2022500025
+NAMA : REZA REZITA
+MATA KULIAH : DESAIN PEMROGRAMAN WEB
+KELOMPOK : SI2K
+
+hasil saya menyimpulkan perkuliahan hari ini :
+1) 
