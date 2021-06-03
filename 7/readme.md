@@ -6,4 +6,4 @@ MATA KULIAH : DESAIN PEMROGRAMAN WEB
 KELOMPOK : SI2K
 
 hasil saya menyimpulkan perkuliahan hari ini :
-1) 
+1) materi Menggabungkan HTML, CSS, dan JS di Halaman Web
