@@ -1,0 +1,41 @@
+body {
+	font-family: Verdana;
+}
+
+.header {
+	background: rgb(34,193,195);
+	background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+	color: white;
+}
+
+a.navigasi:link {
+	display: inline-block;
+	width: 150px;
+	height: 25px;
+	margin: 10px;
+	padding: 5px;
+	text-align: center;
+	white-space: nowrap;
+	border-radius: 5px;
+	border: 1px solid #000000;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	color: black;
+	background: #FEC8D8;
+	text-decoration: none;
+	font-family: Tahona;
+}
+
+a.navigasi:visited {
+
+}
+
+a.navigasi:hover {
+	background: #8800CC;
+	font-weight: bolder;
+	color: hotpink;
+}
+
+a.navigasi:active {
+  background-color: #FF0000;
+}
