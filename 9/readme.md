@@ -7,3 +7,4 @@ MATA KULIAH : DESAIN PEMROGRAMAN WEB
 
 Hasil saya menyimpulkan :
 1) membahas bagaimana mendesain layout web menggunakan Photoshop, memotongnya menggunakan slice tool, menjadikannya file html 
+memodifikasi file htmlnya, sambil mendesain tombol sehingga lebih menarik saat di hover.
